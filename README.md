@@ -1,4 +1,15 @@
+<br />
 <img align="right" width="50" border-radius="5px" src="https://github.com/Ngochuyenn527.png" />
+
+### Hi fens👋, I'm [Ngoc Huyenn](https://www.facebook.com/Ngochuyenn527) ne!👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ngochuyenn527&label=Views&color=blue&style=plastic" alt="Ngochuyenn527"/> </p>
+
+### Connect with me:
+[<img align="left" alt="Nitin | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Nitin | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
 
 <h2 align="center">Hi fens👋,<a href="https://www.facebook.com/Ngochuyenn527" color="rgb(226, 171, 171)"> Ngoc Huyenn</a> nee!</h2>
 
