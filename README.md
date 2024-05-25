@@ -7,22 +7,16 @@
 
 <h2 align="center">Hi fens👋,<a href="https://www.facebook.com/Ngochuyenn527" color="rgb(226, 171, 171)"> Ngoc Huyenn</a> nee!</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+- 🔭🏫 I’m currently studying at Hanoi University of Industry
+- 💻 I’m learning Software Engineering
+- 😝 I'm enjoy with: listen to music, dance and sleep
+<br />
+
 ## 📫Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Ngochuyenn527) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/huynne709) 
 
 [<img align="left" alt="Nitin | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Nitin | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-
 
 
 # 📊GitHub Stats :
@@ -33,8 +27,6 @@
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ngochuyenn527&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- [website]: https://nitinbisht.herokuapp.com/ -->
 [instagram]:https://www.instagram.com/huynne709
