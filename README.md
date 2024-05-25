@@ -3,19 +3,16 @@
 
 ### Hi fens👋, I'm [Ngoc Huyenn](https://www.facebook.com/Ngochuyenn527) ne!👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ngochuyenn527&label=Views&color=4&icon=0&style=plastic" alt="Ngochuyenn527"/> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ngochuyenn527&label=Views&color=red&style=plastic" alt="Ngochuyenn527"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ngochuyenn527&label=Views&color=pink&style=plastic" alt="Ngochuyenn527"/> </p>
 
-
-<!-- <h2 align="center">Hi fens👋,<a href="https://www.facebook.com/Ngochuyenn527" color="rgb(226, 171, 171)"> Ngoc Huyenn</a> nee!</h2> -->
 ## 🌻About me:
 - 🏫 Ngoc Huyenn currently studying at Hanoi University of Industry.
 - 💻 Learning Software Engineering.
-- 😝 Enjoy with: listen to music, dance and sleep.
+- 😝 Enjoy with: 🎧listen to music, 🕺dance and 😴sleep.
 <br />
 
-## 📫Connect with me:
 
+## 📫Connect with me:
 [<img align="left" alt="Nitin | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Nitin | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
@@ -28,8 +25,6 @@
 
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=Ngochuyenn527&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
 
 <!-- [website]: https://nitinbisht.herokuapp.com/ -->
 [instagram]:https://www.instagram.com/huynne709
