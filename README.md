@@ -17,4 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ngochuyenn527&icon=9&color=4)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Ngochuyenn527&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
