@@ -17,7 +17,7 @@
 - ⚡ Fun fact: ...
 - 
 ## 📫Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Ngochuyenn527) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/huynne709) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Ngochuyenn527) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/huynne709) 
 
 [<img align="left" alt="Nitin | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Nitin | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,5 +37,5 @@
 [![](https://visitcount.itsvg.in/api?id=Ngochuyenn527&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- [website]: https://nitinbisht.herokuapp.com/ -->
-[instagram]:https://instagram.com/https://www.instagram.com/huynne709
-[facebook]:https://facebook.com/https://www.facebook.com/Ngochuyenn527
+[instagram]:https://www.instagram.com/huynne709
+[facebook]:https://www.facebook.com/Ngochuyenn527
