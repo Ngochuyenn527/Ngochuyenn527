@@ -1,6 +1,6 @@
 <img align="right" width="50" border-radius="5px" src="https://github.com/Ngochuyenn527.png" />
 
-<h2 align="center">Hi fens👋,<a href="https://www.facebook.com/Ngochuyenn527" style="color: rgb(226, 171, 171); text-decoration: none;">Ngoc Huyenn nee!</a></h2>
+<h2 align="center">Hi fens👋,<a href="https://www.facebook.com/Ngochuyenn527" color="rgb(226, 171, 171)"">Ngoc Huyenn</a> nee!</h2>
 
 ## 📫 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Ngochuyenn527) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/huynne709) 
