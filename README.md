@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ngochuyenn527&label=Views&color=blue&style=plastic" alt="Ngochuyenn527"/> </p>
 
 ### Connect with me:
-[<img align="left" alt="Nitin | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Nitin | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/Ngochuyenn527]
 [<img align="left" alt="Nitin | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
@@ -26,5 +26,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ngochuyenn527&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ngochuyenn527&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
