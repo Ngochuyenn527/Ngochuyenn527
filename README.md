@@ -3,7 +3,7 @@
 
 ### Hi fens👋, I'm [Ngoc Huyenn](https://www.facebook.com/Ngochuyenn527) ne!👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ngochuyenn527&label=Views&color=pink&style=plastic" alt="Ngochuyenn527"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ngochuyenn527&label=Views&color=red&style=plastic" alt="Ngochuyenn527"/> </p>
 
 ## 🌻About me:
 - 🏫 Ngoc Huyenn currently studying at Hanoi University of Industry.
