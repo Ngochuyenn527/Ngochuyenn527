@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ngochuyenn527&label=Views&color=blue&style=plastic" alt="Ngochuyenn527"/> </p>
 
 <!-- <h2 align="center">Hi fens👋,<a href="https://www.facebook.com/Ngochuyenn527" color="rgb(226, 171, 171)"> Ngoc Huyenn</a> nee!</h2> -->
-
+## 🌻About me:
 - 🔭🏫 Ngoc Huyenn currently studying at Hanoi University of Industry.
 - 💻 Learning Software Engineering.
 - 😝 Enjoy with: listen to music, dance and sleep.
