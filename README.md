@@ -1,4 +1,4 @@
-<p style="font-weight: bold;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello fens, I'm <a href="https://www.facebook.com/Ngochuyenn527" style="color: rgb(226, 171, 171);">Ngoc Huyenn</a></p>
+<p>Hello fens, I'm Ngoc Huyenn</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ngochuyenn527&icon=9&color=4)](https://visitcount.itsvg.in)
