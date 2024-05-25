@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ngochuyenn527&label=Views&color=blue&style=plastic" alt="Ngochuyenn527"/> </p>
 
-<h2 align="center">Hi fens👋,<a href="https://www.facebook.com/Ngochuyenn527" color="rgb(226, 171, 171)"> Ngoc Huyenn</a> nee!</h2>
+<!-- <h2 align="center">Hi fens👋,<a href="https://www.facebook.com/Ngochuyenn527" color="rgb(226, 171, 171)"> Ngoc Huyenn</a> nee!</h2> -->
 
-- 🔭🏫 I’m currently studying at Hanoi University of Industry
-- 💻 I’m learning Software Engineering
-- 😝 I'm enjoy with: listen to music, dance and sleep
+- 🔭🏫 Ngoc Huyenn currently studying at Hanoi University of Industry.
+- 💻 Learning Software Engineering.
+- 😝 Enjoy with: listen to music, dance and sleep.
 <br />
 
 ## 📫Connect with me:
