@@ -1,4 +1,3 @@
-<br />
 <img align="right" width="50" border-radius="5px" src="https://github.com/Ngochuyenn527.png" />
 
 ### Hi fens👋, I'm [Ngoc Huyenn](https://www.facebook.com/Ngochuyenn527) ne!👋
