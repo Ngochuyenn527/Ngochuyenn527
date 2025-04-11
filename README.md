@@ -7,7 +7,6 @@
 ## 🌻About me:
 - 🏫 Ngoc Huyenn currently studying at Hanoi University of Industry.
 - 💻 Learning Software Engineering.
-- 😝 Enjoy with: 🎧listen to music, 🕺dance and 😴sleep.
 <br />
 
 
