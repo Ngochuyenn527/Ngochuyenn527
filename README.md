@@ -20,5 +20,5 @@
 
 
 <!-- [website]: https://nitinbisht.herokuapp.com/ -->
-[instagram]:https://www.instagram.com/huynne709
+[instagram]:https://www.instagram.com/huynne527
 [facebook]:https://www.facebook.com/Ngochuyenn527
